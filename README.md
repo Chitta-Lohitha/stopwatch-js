@@ -41,7 +41,6 @@ A sleek and fully functional **Stopwatch Application** built using **HTML, CSS, 
 
 ### 📂 Clone the repo
 
-```bash
 git clone https://github.com/Chitta-Lohitha/stopwatch-js.git
 cd stopwatch-js
 

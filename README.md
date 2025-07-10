@@ -48,6 +48,7 @@ cd stopwatch-js
 Just open index.html in any browser!
 
 🌐 Deploy it Yourself
+
 You can deploy this project using GitHub Pages:
 
 1.Go to your repository
@@ -59,8 +60,11 @@ You can deploy this project using GitHub Pages:
 4.Save → Visit the live link shown
 
 🧑‍💻 Author
+
 Chitta Lohitha
+
 💼 GitHub: @Chitta-Lohitha
 
 📄 License
+
 This project is open-source and available under the MIT License.

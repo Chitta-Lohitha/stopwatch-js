@@ -14,13 +14,6 @@ A sleek and fully functional **Stopwatch Application** built using **HTML, CSS, 
 
 ---
 
-## 📸 Screenshots
-
-![Stopwatch Light Mode](screenshots/light-mode.png)
-![Stopwatch Dark Mode](screenshots/dark-mode.png)
-
----
-
 ## ⚙️ Features
 
 - ✅ Start / Stop / Reset stopwatch

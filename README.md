@@ -50,10 +50,17 @@ Just open index.html in any browser!
 🌐 Deploy it Yourself
 You can deploy this project using GitHub Pages:
 
-Go to your repository
+1.Go to your repository
 
-Click Settings → Pages
+2.Click Settings → Pages
 
-Set Source to main branch
+3.Set Source to main branch
 
-Save → Visit the live link shown
+4.Save → Visit the live link shown
+
+🧑‍💻 Author
+Chitta Lohitha
+💼 GitHub: @Chitta-Lohitha
+
+📄 License
+This project is open-source and available under the MIT License.

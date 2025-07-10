@@ -44,3 +44,17 @@ A sleek and fully functional **Stopwatch Application** built using **HTML, CSS, 
 ```bash
 git clone https://github.com/Chitta-Lohitha/stopwatch-js.git
 cd stopwatch-js
+
+🔥 Run Locally
+Just open index.html in any browser!
+
+🌐 Deploy it Yourself
+You can deploy this project using GitHub Pages:
+
+Go to your repository
+
+Click Settings → Pages
+
+Set Source to main branch
+
+Save → Visit the live link shown

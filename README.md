@@ -1,6 +1,4 @@
-# stopwatch
-
-# ⏱️ Stopwatch JS
+# ⏱️ Stopwatch
 
 A sleek and fully functional **Stopwatch Application** built using **HTML, CSS, and JavaScript**, featuring:
 

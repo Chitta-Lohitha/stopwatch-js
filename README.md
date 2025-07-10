@@ -33,7 +33,6 @@ A sleek and fully functional **Stopwatch Application** built using **HTML, CSS, 
 | HTML      | Structure   |
 | CSS       | Styling     |
 | JavaScript | Logic & Functionality |
-| LocalStorage | Persistent Data |
 | Git + GitHub | Version Control & Deployment |
 
 ---
